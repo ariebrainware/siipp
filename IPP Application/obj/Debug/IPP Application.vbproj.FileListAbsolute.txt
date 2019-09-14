@@ -1,0 +1,20 @@
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\bin\Debug\IPP Application.exe.config
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\bin\Debug\IPP Application.exe
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\bin\Debug\IPP Application.pdb
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\bin\Debug\IPP Application.xml
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP Application.vbprojResolveAssemblyReference.cache
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.Resources.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP Application.vbproj.GenerateResource.Cache
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP Application.exe
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP Application.xml
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP Application.pdb
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.mainForm.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.AboutBox1.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.ASM.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.ST.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.LNH.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.KKA.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.DP.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.MAK.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.MonPPM.resources
+a:\documents\visual studio 2017\Projects\IPP Application\IPP Application\obj\Debug\IPP_Application.SplashScreen1.resources
